@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\examples\\cifar10",
+    "\\include",
+    "\\include\\caffe",
+    "\\src",
+    "\\src\\caffe",
+    "\\tools"
+  ],
+  "SelectedNode": "\\include\\caffe\\blob.hpp",
+  "PreviewInSolutionExplorer": false
+}
